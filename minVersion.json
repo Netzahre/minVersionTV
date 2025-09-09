@@ -1,1 +1,6 @@
-{ "minVersionCode": 21 }
+{
+  "minVersionCode": 22,
+  "message": "Hay una versión nueva con mejoras de estabilidad. Actualiza para continuar.",
+  "forceExit": true,
+  "releaseNotesUrl": "https://tus-notas-de-version.ejemplo"
+}
