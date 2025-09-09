@@ -1,8 +1,9 @@
 {
-  "minVersionCode": 19,
+  "minVersionCode": 9,
   "message": "La vida es una lenteja, o la comes o la dejas.",
   "forceExit": true,
   "releaseNotesUrl": "https://tus-notas-de-version.ejemplo"
 }
+
 
 
