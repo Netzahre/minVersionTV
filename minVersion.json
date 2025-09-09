@@ -1,9 +1,10 @@
 {
-  "minVersionCode": 21,
+  "minVersionCode": 20,
   "message": "Hay una nueva version disponible, debe actualizar para continuar usando la aplicacion",
   "forceExit": true,
   "releaseNotesUrl": "https://tus-notas-de-version.ejemplo"
 }
+
 
 
 
